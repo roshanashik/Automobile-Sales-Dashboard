@@ -78,15 +78,15 @@ This dataset includes:
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Previews
 
-*Add a screenshot named `dashboard.png` to the project folder, then this image will appear here:*
+### 🔹 Yearly Statistics 
 
-```markdown
-![Dashboard Preview](dashboard.png)
-```
+![Yearly Statistics](Yearly_Statics.png)
 
----
+### 🔹 Recession Analysis 
+
+![Recession Analysis](Recession.png)
 
 ## 📄 License
 
